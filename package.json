@@ -1,0 +1,24 @@
+{
+  "name": "blogging_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannontorcato/blogging_site.git"
+  },
+  "author": "Shannon Torcato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannontorcato/blogging_site/issues"
+  },
+  "homepage": "https://github.com/shannontorcato/blogging_site#readme",
+  "dependencies": {
+    "express-fileupload": "^1.2.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
